@@ -6,7 +6,6 @@
       <class name="MyAppsTest.MyGrid"/>
       <class name="MyAppsTest.MyGrid"/>
       <class name="MyAppsTest.MyGrid"/>
-      <class name="MyAppsTest.MyGrid"/>
     </classes>
   </test> <!-- Test-->
 </suite> <!-- Suite -->
