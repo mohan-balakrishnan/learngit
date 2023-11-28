@@ -4,6 +4,9 @@
   <test thread-count="8" name="test" verbose ="5">
     <classes>
       <class name="MyAppsTest.MyGrid"/>
+      <class name="MyAppsTest.MyGrid"/>
+      <class name="MyAppsTest.MyGrid"/>
+      <class name="MyAppsTest.MyGrid"/>
     </classes>
   </test> <!-- Test-->
 </suite> <!-- Suite -->
